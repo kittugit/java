@@ -15,7 +15,7 @@ Step 2: Create New Maven Project - Select Archetype "cxf-jaxrs-service"
 
 Step 3: Copy "HelloWord.java" from cxfrest and replace in your maven project
 
-Step 4: Maven Clean, Install and Maven Build with goad - tomcat7:run-war
+Step 4:  Run Maven Clean, Install and Maven Build with goal - tomcat7:run-war
 
 Step 5: Test Rest Service using REST Client (Chrome Web App - Advacnce REST Client)
 1) /hello/echo/{input} - Simple HTTP GET
