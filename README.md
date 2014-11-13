@@ -1,6 +1,6 @@
 java
 ====
 
-cxfrest - RestFull Service using Apache CXF + Maven + Eclipse
+cxfrest - RestFul Service using Apache CXF + Maven + Eclipse
 
 
