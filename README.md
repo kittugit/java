@@ -5,8 +5,7 @@ cxfrest - RestFul Service using Apache CXF + Maven + Eclipse
 
 
 Required: 
-- Java 7+
-- Eclipse Luno
+- Java 7+ and Eclipse Luno
 - 
 Step 1: Add Maven Archetype Catelog into Eclipse
 Windows->Preference->Maven->ArcheTypes - Add Remote Catalog "http://repo1.maven.org/maven2/archetype-catalog.xml"
