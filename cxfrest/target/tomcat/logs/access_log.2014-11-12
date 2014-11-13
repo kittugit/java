@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Nov/2014:21:30:04 -0600] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-58186-exec-1 282
+127.0.0.1 - - [12/Nov/2014:21:30:04 -0600] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-58186-exec-3 4
+0:0:0:0:0:0:0:1 - - [12/Nov/2014:21:30:24 -0600] "POST /jaxrs-service/hello/image HTTP/1.1" 500 89559 http-bio-13000-exec-1 761
+127.0.0.1 - - [12/Nov/2014:21:37:06 -0600] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-58372-exec-1 483
+127.0.0.1 - - [12/Nov/2014:21:37:06 -0600] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-58372-exec-3 8
+0:0:0:0:0:0:0:1 - - [12/Nov/2014:21:38:53 -0600] "POST /jaxrs-service/hello/image HTTP/1.1" 500 6271 http-bio-13000-exec-1 167
+0:0:0:0:0:0:0:1 - - [12/Nov/2014:21:39:11 -0600] "POST /jaxrs-service/hello/image HTTP/1.1" 500 6271 http-bio-13000-exec-2 34
+0:0:0:0:0:0:0:1 - - [12/Nov/2014:21:39:29 -0600] "POST /jaxrs-service/hello/image HTTP/1.1" 500 6271 http-bio-13000-exec-3 37
+127.0.0.1 - - [12/Nov/2014:21:40:53 -0600] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-58426-exec-1 441
+127.0.0.1 - - [12/Nov/2014:21:40:53 -0600] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-58426-exec-3 5
+0:0:0:0:0:0:0:1 - - [12/Nov/2014:21:42:14 -0600] "POST /jaxrs-service/hello/image HTTP/1.1" 204 - http-bio-13000-exec-1 157
